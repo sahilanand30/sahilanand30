@@ -25,7 +25,7 @@
     <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <p>
     <br>
-        <h1>👇🏻🔥 Grind Zone 🔥👇🏻<br>
+        <h1>👇🏻🔥 abcdxyz 🔥👇🏻<br>
         <a href="https://leetcode.com/sahilanand/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png "  width="48" height="48"> </a>&nbsp;<a href="https://codeforces.com/profile/sahilanand" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png "  width="48" height="48"> </a>&nbsp;<a href="https://www.codechef.com/users/sahilanand30" target="_blank"> <img src="https://img.icons8.com/color/344/codechef.png "  width="48" height="48"> </a>&nbsp;<a href="https://www.hackerrank.com/sahilhanand" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png "  width="48" height="48"> </a>
          </h1>
     </p>
