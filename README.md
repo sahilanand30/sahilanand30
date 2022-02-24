@@ -31,15 +31,15 @@
                         alt="mongodb" width="48" height="48" /> </a>&nbsp;
         <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" />
         </a>
-        <a href="https://expressjs.com" target="_blank"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-                        alt="express" width="40" height="40" /> </a>&nbsp;
+        <a href="https://www.w3schools.com/cpp/" target="_blank"> <img
+                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+                        alt="cplusplus" width="40" height="40" /> </a>&nbsp;
         <a href="https://www.cprogramming.com/" target="_blank"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"
                         width="40" height="40" /> </a>&nbsp;
-        <a href="https://www.w3schools.com/cpp/" target="_blank"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-                        alt="cplusplus" width="40" height="40" /> </a>
+  <a href="https://expressjs.com" target="_blank"> <img
+                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+                        alt="express" width="40" height="40" />
 </p>
 <br>
 <h1>👇🏻🔥 Grind Zone 🔥👇🏻<br><a href="https://leetcode.com/sahilanand/" target="_blank"> <img
