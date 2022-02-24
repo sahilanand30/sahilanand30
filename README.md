@@ -1,4 +1,4 @@
-<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px" /></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px" /></a>
 
 <h1 align="center">Hlw <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
                 width="30px">, I'm Sahil :)</h1>
@@ -11,7 +11,7 @@
 - 📫 How to reach me **sahilhanand@gmail.com**
 ## 🚀 Languages and Tools:
 
-<p align="left">
+<p>
         <a href="https://www.java.com" target="_blank"> <img
                         src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> </a>
         <a href="https://reactjs.org/" target="_blank"> <img
@@ -37,9 +37,9 @@
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
                         alt="express" width="40" height="40" /> </a>
         <a href="https://isocpp.org/" target="_blank"> <img
-                        src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> </a>
-                        <br>
-                        <h1>👇🏻🔥 Grind Zone 🔥👇🏻</h1>
+                        src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
+</p>
+<h1>👇🏻🔥 Grind Zone 🔥👇🏻</h1>
 <br>
 <a href="https://leetcode.com/sahilanand/" target="_blank"> <img
                 src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png "
@@ -52,19 +52,3 @@
 <a href="https://www.hackerrank.com/sahilhanand" target="_blank"> <img
                 src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png "
                 width="48" height="48"> </a>
-
-</p>
-<!-- <h1>👇🏻🔥 Grind Zone 🔥👇🏻</h1>
-<br>
-<a href="https://leetcode.com/sahilanand/" target="_blank"> <img
-                src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png "
-                width="48" height="48"> </a>&nbsp;
-<a href="https://codeforces.com/profile/sahilanand" target="_blank">
-        <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png "
-                width="48" height="48"> </a>&nbsp;
-<a href="https://www.codechef.com/users/sahilanand30" target="_blank">
-        <img src="https://img.icons8.com/color/344/codechef.png " width="48" height="48"></a>&nbsp;
-<a href="https://www.hackerrank.com/sahilhanand" target="_blank"> <img
-                src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png "
-                width="48" height="48"> </a> -->
- -->
