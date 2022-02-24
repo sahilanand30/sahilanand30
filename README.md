@@ -39,7 +39,7 @@
                         width="40" height="40" /> </a>&nbsp;
   <a href="https://expressjs.com" target="_blank"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-                        alt="express" width="40" height="40" />
+                        alt="express" width="40" height="40" /></a>
 </p>
 <br>
 <h1>👇🏻🔥 Grind Zone 🔥👇🏻<br><a href="https://leetcode.com/sahilanand/" target="_blank"> <img
