@@ -4,7 +4,7 @@
 
 
 ## 🙋‍♂️ About Me
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Backend Development**
 - 👯 I’m looking to collaborate on **OpenSource Projects based on MERN mostly**
 - 📫 How to reach me **sahilhanand@gmail.com**
 ## 🚀 Languages and Tools:
