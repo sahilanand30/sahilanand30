@@ -9,8 +9,6 @@
 ## 🚀 Languages and Tools:
 
 <p>
-        <a href="https://www.java.com" target="_blank"> <img
-                        src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> </a>&nbsp;
         <a href="https://reactjs.org/" target="_blank"> <img
                         src="https://img.icons8.com/color/48/000000/react-native.png" /> </a>&nbsp;
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
@@ -19,12 +17,8 @@
                         src="https://img.icons8.com/color/48/000000/html-5.png" /> </a>&nbsp;
         <a href="https://www.w3schools.com/css/" target="_blank"> <img
                         src="https://img.icons8.com/color/48/000000/css3.png" /> </a>&nbsp;
-        <a href="https://www.python.org" target="_blank"> <img
-                        src="https://img.icons8.com/color/48/000000/python.png" /> </a>&nbsp;
         <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img
                         src="https://img.icons8.com/color/48/000000/nodejs.png" /> </a>&nbsp;
-        <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img
-                        src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" /> </a>&nbsp;
         <a href="https://www.mongodb.com/" target="_blank"> <img
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
                         alt="mongodb" width="48" height="48" /> </a>&nbsp;
