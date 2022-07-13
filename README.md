@@ -5,7 +5,7 @@
 ## 🙋‍♂️ About Me
 - 🌱 I’m currently learning **Backend Development**
 - 👯 I’m looking to collaborate on **OpenSource Projects based on MERN mostly**
-- 📫 How to reach me **sahilhanand@gmail.com**
+- 📫 How to reach me **sahilhanand@gmail.com** or **https://www.linkedin.com/in/sahilanand30/**
 ## 🚀 Languages and Tools:
 
 <p>
