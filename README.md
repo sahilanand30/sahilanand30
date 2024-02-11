@@ -7,9 +7,6 @@
 ###
 
 <h2 align="left">About me</h2>
-
-###
-
 <h4 align="left">🔭 I’m currently working on MERN/NextJS Projects<br><br>👯 I’m looking to collaborate on Open Source Projects<br><br>💬 Ask me about Backend Development, Competitive Programming<br><br>📫 How to reach me sahilhanand@gmail.com</h4>
 
 ###
