@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">My name is Sahil and I'm a Full Stack Developer and Competitive Programmer from India</h2>
+<h2 align="left">My name is Sahil and I'm a Full Stack Developer and Competitive Programmer</h2>
 
 ###
 
