@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">My name is Sahil and I'm a Full Stack Developer and Competitive Programmer from India</h2>
+<h3 align="left">My name is Sahil and I'm a Full Stack Developer and Competitive Programmer from India</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">🔭 I’m currently working on MERN/NextJS Projects<br><br>👯 I’m looking to collaborate on Open Source Projects<br><br>💬 Ask me about Backend Development, Competitive Programming<br><br>📫 How to reach me sahilhanand@gmail.com</h5>
+<h3 align="left">🔭 I’m currently working on MERN/NextJS Projects<br><br>👯 I’m looking to collaborate on Open Source Projects<br><br>💬 Ask me about Backend Development, Competitive Programming<br><br>📫 How to reach me sahilhanand@gmail.com</h3>
 
 ###
 
