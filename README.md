@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Sahil this side, I am Software Engineer and Competitive Programmer</h2>
+<h2 align="left">I am Sahil, a Software Engineer and Competitive Programmer</h2>
 
 ###
 
